@@ -1,5 +1,4 @@
 Belajar git dan Github
-- Saya ingin belajar version control dengan git/github
 - Saya ingin mengupload project saya ke repository
 - Membuat projek yang digunakan banyak orang
 - Membuat sdk untuk multimedia
